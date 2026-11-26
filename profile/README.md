@@ -8,7 +8,7 @@
 
 Aplicativo de mobilidade urbana que conecta passageiros e motoristas da sua cidade.
 
-[Site](https://urban69.com.br) · [Baixar no Google Play](https://play.google.com/store/apps/details?id=br.com.rota69mobilidade.app) · [Suporte](mailto:suporte@urban69.com.br)
+[Site](https://urban69.com.br) · [Google Play](https://play.google.com/store/apps/details?id=br.com.rota69mobilidade.app) · [App Store](https://apps.apple.com/br/app/urban-69-mobilidade/id6832714415) · [Suporte](mailto:suporte@urban69.com.br)
 
 </div>
 
